@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1668340810,,"wq"
+|2,0,1668342575,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,51 @@
 # Registers:
 
 # File marks:
-'0  142  0  ~/index.html
-|4,48,142,0,1668340810,"~/index.html"
-'1  5  23  ~/Dockerfile
-|4,49,5,23,1668340702,"~/Dockerfile"
+'0  19  78  /usr/lib/systemd/system/docker.service
+|4,48,19,78,1668342575,"/usr/lib/systemd/system/docker.service"
+'1  142  0  ~/index.html
+|4,49,142,0,1668340810,"~/index.html"
+'2  5  23  ~/Dockerfile
+|4,50,5,23,1668340702,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  19  78  /usr/lib/systemd/system/docker.service
+|4,39,19,78,1668342575,"/usr/lib/systemd/system/docker.service"
+-'  1  0  /usr/lib/systemd/system/docker.service
+|4,39,1,0,1668342477,"/usr/lib/systemd/system/docker.service"
 -'  142  0  ~/index.html
 |4,39,142,0,1668340810,"~/index.html"
+-'  142  0  ~/index.html
+|4,39,142,0,1668340810,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1668340800,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1668340800,"~/index.html"
 -'  5  23  ~/Dockerfile
 |4,39,5,23,1668340702,"~/Dockerfile"
 -'  5  23  ~/Dockerfile
 |4,39,5,23,1668340702,"~/Dockerfile"
+-'  5  23  ~/Dockerfile
+|4,39,5,23,1668340702,"~/Dockerfile"
+-'  5  23  ~/Dockerfile
+|4,39,5,23,1668340702,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1668340479,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1668340479,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1668340479,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1668340479,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> /usr/lib/systemd/system/docker.service
+	*	1668342573	0
+	"	19	78
+	^	19	79
+	.	19	78
+	+	19	78
 
 > ~/index.html
 	*	1668340808	0
